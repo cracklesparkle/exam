@@ -1,0 +1,9 @@
+body, header{
+    font-family: 'Montserrat';
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
